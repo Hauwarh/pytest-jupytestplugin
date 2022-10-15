@@ -1,0 +1,10 @@
+site_name: pytest-jupytestplug
+site_description: A simple JupyterHub plugin to use with pytest
+site_author: Hauwa Ibrahim
+
+theme: readthedocs
+
+repo_url: https://github.com/Hauwarh/pytest-jupytestplug
+
+pages:
+- Home: index.md
